@@ -6,4 +6,4 @@ This webpage was deployed for homework challenge 1 in which I had to edit the ht
 ![image](https://github.com/mcgrane18482/horiseon_hw_challenge/assets/133534088/74732cc2-2b77-4692-8476-47923a3331b8)
 
 ## Credits
-Starter code was provided for me from RUT-VIRT-FSF-FT-05-2023-U-LOLC, the Rutgers Fullstack Flex bootcamp directory on GitLab.
+Starter code for index.html and style.css was provided for me from RUT-VIRT-FSF-FT-05-2023-U-LOLC, the Rutgers Fullstack Flex bootcamp directory on GitLab.
